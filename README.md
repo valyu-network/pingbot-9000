@@ -231,4 +231,10 @@ If you encounter any issues or have questions:
 3. Include request examples and expected behavior
 
 ---
+This tool is provided "as-is" without any warranties, express or implied. While PingBot-9000 faithfully reports what it sees in your HTTP requests, it cannot guarantee protection from the Knights who say "Ni!", killer rabbits, or unexpected Spanish Inquisitions. 
 
+*Privacy Note*: This tool displays request information including IP addresses and headers. Only use it for requests you're comfortable analyzing.
+
+*Security Warning*: Never send sensitive data (passwords, API keys, credit card numbers, or the location of the Holy Grail) to this endpoint. It's designed for debugging, not for keeping secrets.
+
+Use at your own risk. Side effects may include: enlightenment about HTTP headers, existential questions about User-Agents, and an irresistible urge to quote Monty Python.
